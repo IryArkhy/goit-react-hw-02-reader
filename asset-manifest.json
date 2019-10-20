@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.81724604.chunk.css",
-    "main.js": "/static/js/main.a6367f39.chunk.js",
-    "main.js.map": "/static/js/main.a6367f39.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.23a63ab6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.23a63ab6.js.map",
-    "static/js/2.cc001f8a.chunk.js": "/static/js/2.cc001f8a.chunk.js",
-    "static/js/2.cc001f8a.chunk.js.map": "/static/js/2.cc001f8a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1440a3a14f35430ff2813000f397b6a3.js": "/precache-manifest.1440a3a14f35430ff2813000f397b6a3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.81724604.chunk.css.map": "/static/css/main.81724604.chunk.css.map"
+    "main.css": "/goit-react-hw-02-reader/static/css/main.f8d4327e.chunk.css",
+    "main.js": "/goit-react-hw-02-reader/static/js/main.a6367f39.chunk.js",
+    "main.js.map": "/goit-react-hw-02-reader/static/js/main.a6367f39.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-02-reader/static/js/runtime-main.21ebc90b.js",
+    "runtime-main.js.map": "/goit-react-hw-02-reader/static/js/runtime-main.21ebc90b.js.map",
+    "static/js/2.cc001f8a.chunk.js": "/goit-react-hw-02-reader/static/js/2.cc001f8a.chunk.js",
+    "static/js/2.cc001f8a.chunk.js.map": "/goit-react-hw-02-reader/static/js/2.cc001f8a.chunk.js.map",
+    "index.html": "/goit-react-hw-02-reader/index.html",
+    "precache-manifest.038ef8a222fcffffd4103bf1d60a7d75.js": "/goit-react-hw-02-reader/precache-manifest.038ef8a222fcffffd4103bf1d60a7d75.js",
+    "service-worker.js": "/goit-react-hw-02-reader/service-worker.js",
+    "static/css/main.f8d4327e.chunk.css.map": "/goit-react-hw-02-reader/static/css/main.f8d4327e.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.23a63ab6.js",
+    "static/js/runtime-main.21ebc90b.js",
     "static/js/2.cc001f8a.chunk.js",
-    "static/css/main.81724604.chunk.css",
+    "static/css/main.f8d4327e.chunk.css",
     "static/js/main.a6367f39.chunk.js"
   ]
 }
