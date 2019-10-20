@@ -1,12 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Reader from '../Reader';
+import publications from '../publications.json';
+import '../styles.css';
 
-class App extends Component {
-  state = {};
-
-  render() {
-    return <Reader />;
-  }
-}
+const App = () => {
+  return <Reader items={publications} />;
+};
 
 export default App;
