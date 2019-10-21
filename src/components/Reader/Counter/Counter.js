@@ -2,14 +2,14 @@ import React from 'react';
 import T from 'prop-types';
 import styles from './Counter.module.css';
 
-const Counter = ({ indexOfPublication, numberOfPublications }) => (
+const Counter = ({ currentPublication, numberOfPublications }) => (
   <p className={styles.counter}>
-    {indexOfPublication + 1}/ {numberOfPublications}
+    {currentPublication}/ {numberOfPublications}
   </p>
 );
 
 Counter.propTypes = {
-  indexOfPublication: T.number.isRequired,
+  currentPublication: T.number.isRequired,
   numberOfPublications: T.number.isRequired,
 };
 
